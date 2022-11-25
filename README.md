@@ -16,6 +16,10 @@
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ 
+<h4 align="left">Profile on CodeWars</h4>
+
+[![codewars](https://www.codewars.com/users/altq33/badges/large)](https://www.codewars.com/users/altq33)
 
 <h4 align="left">👽 Top langs</h4>
 
